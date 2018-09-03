@@ -1,5 +1,0 @@
-env: tensorflow-1.9
-machine: cpu
-input:
-      - source: redeipirati/datasets/breast-cancer/
-        destination: bcds
